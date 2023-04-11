@@ -40,7 +40,7 @@ const Footer = () => (
         <div className="flex flex-wrap items-center justify-between gap-4">
           <h4 className="font-extrabold text-[24px] text-white">METAVERUS</h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2021 - 2022 Metaversus. All rights reserved.
+            Copyright © 2021 - 2023 Metaversus. All rights reserved.
           </p>
 
           <div className="flex gap-4">
