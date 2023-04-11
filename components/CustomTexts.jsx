@@ -1,4 +1,5 @@
 "use client";
+
 import { motion as m } from "framer-motion";
 
 import { textContainer, textVariant2 } from "../utils/motion";
